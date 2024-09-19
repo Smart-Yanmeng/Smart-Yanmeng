@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ✨
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Smart-Yanmeng/Smart-Yanmeng/refs/heads/output/github-contribution-grid-snake-dark.svg">
@@ -6,15 +6,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Smart-Yanmeng/Smart-Yanmeng/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
-**Smart-Yanmeng/Smart-Yanmeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I'm York.
+- 🔭 I'm a student in Quanzhou Normal Univercity.
+- 🌱 I’m currently learning Java and Golang.
+- 👯 I’m looking to collaborate on make a beautiful website for many functions.
+- 🤔 I’m looking for help with how to learning new technology like Blockchain.
+- 🤩 I usually think up to write a [personal blog](https://Smart-Yanmeng.github.io/), welcome comments exchange!
