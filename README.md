@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://raw.githubusercontent.com/Smart-Yanmeng/Smart-Yanmeng/refs/heads/output/github-contribution-grid-snake.svg
+![](https://raw.githubusercontent.com/Smart-Yanmeng/Smart-Yanmeng/refs/heads/output/github-contribution-grid-snake.svg)
 
 **Smart-Yanmeng/Smart-Yanmeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
