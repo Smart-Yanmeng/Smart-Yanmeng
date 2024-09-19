@@ -7,7 +7,7 @@
 </picture>
 
 - 👋 Hi, I'm York.
-- 🔭 I'm a student in Quanzhou Normal Univercity.
+- 🔭 I'm a student in [Quanzhou Normal Univercity](https://www.qztc.edu.cn/).
 - 🌱 I’m currently learning Java and Golang.
 - 👯 I’m looking to collaborate on make a beautiful website for many functions.
 - 🤔 I’m looking for help with how to learning new technology like Blockchain.
