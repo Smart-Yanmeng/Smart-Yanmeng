@@ -6,9 +6,32 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Smart-Yanmeng/Smart-Yanmeng/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 👋 Hi, I'm York.
-- 🔭 I'm a student in [Quanzhou Normal Univercity](https://www.qztc.edu.cn/).
-- 🌱 I’m currently learning Java and Golang.
-- 👯 I’m looking to collaborate on make a beautiful website for many functions.
-- 🤔 I’m looking for help with how to learning new technology like Blockchain.
-- 🤩 I usually think up to write a [personal blog](https://Smart-Yanmeng.github.io/), welcome comments exchange!
+# 👋 Hi, I'm York
+
+🚀 Passionate backend developer focused on **Java**, **Golang**, and distributed systems.
+
+🌱 Currently exploring:
+
+* Spring Cloud & Microservices
+* Blockchain & Trusted Data Sharing
+* WebSocket & MQ Architecture
+* Cloud-native and DevOps technologies
+
+💡 Interested in building:
+
+* Secure and scalable backend systems
+* Beautiful and practical web platforms
+* Open-source tools and developer utilities
+
+🤝 Open to collaboration on:
+
+* Full-stack web projects
+* Open-source infrastructure tools
+* Blockchain and data security related projects
+
+🧠 Always learning new technologies and experimenting with innovative ideas.
+
+📝 I also write technical articles on my personal blog:
+👉 https://Smart-Yanmeng.github.io/
+
+⭐ Feel free to connect, collaborate, or exchange ideas!
